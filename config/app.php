@@ -7,7 +7,7 @@
 return [
     'env' => env("APP_ENV", "prod"),
     'key' => env("APP_KEY", ''),
-    'name' => env("APP_NAME", 'ss-panel 4'),
+    'name' => env("APP_NAME", 'Heyday'),
     'base_url' => env("APP_BASEURL", '/'),
     'time_zone' => env("APP_TIMEZONE", 'UTC'),  // UTC
     'theme' => env("APP_THEME", 'default'),
