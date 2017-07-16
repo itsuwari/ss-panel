@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'sign-up-now' => 'Sign Up Now',
-    'info' => 'over the wall!',
+    'sign-up-now' => 'Sign up',
+    'info' => '',
     'enter-user-center' => 'User Center',
 ];
