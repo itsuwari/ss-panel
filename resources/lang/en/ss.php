@@ -17,7 +17,7 @@ return [
     'node' => 'Node',
     'port' => 'Port',
     'password' => 'Password',
-    'method' => 'Method',
+    'method' => 'Encrypt method',
 
     // SSR
     'obfs-protocol' => 'obfs Protocol',
