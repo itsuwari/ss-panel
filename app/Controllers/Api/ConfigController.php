@@ -42,8 +42,8 @@ class ConfigController extends BaseController implements Cfg
     {
         // @todo
         $data = [
-            'app' => db_config(self::AppName,'ss-panel4'),
-            'index_message' => db_config(self::HomeMessage,'Like a butterfly...'),
+            'app' => db_config(self::AppName,'Heyday'),
+            'index_message' => db_config(self::HomeMessage,'To make us love our country, our country ought to be lovely.'),
             'analyticsId' => db_config(self::GoogleAnalyticsId,''),
             'version' => get_version(),
         ];
